@@ -1,0 +1,6 @@
+{
+  "name": "Островок! — бронирование отелей и квартир",
+  "description": "Поиск и бронирование отелей, квартир и гостиниц по всему миру. Скидки по программе лояльности ГУРУ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
